@@ -291,7 +291,7 @@ ufw enable
 To check if your node is fully synced with the network, compare its block height with a trusted live RPC endpoint:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/cerberus-node/aztec-network/refs/heads/main/sync-check.sh)
+bash <(curl -s https://raw.githubusercontent.com/Alfonova-Node/aztec-network/refs/heads/main/sync-check.sh)
 ```
 
 🎉 **Setup Complete**
