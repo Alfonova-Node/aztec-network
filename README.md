@@ -346,7 +346,7 @@ docker logs -f aztec-sequencer
 If you want to perform a health check:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/cerberus-node/aztec-network/refs/heads/main/sync-check.sh)
+bash <(curl -s https://raw.githubusercontent.com/Alfonova-Node/aztec-network/refs/heads/main/sync-check.sh)
 ```
 
 ---
